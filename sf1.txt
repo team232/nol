@@ -1,6 +1,14 @@
 hello!
 hey
 what
+<<<<<<< HEAD
 done done
 loki
 maty
+=======
+something
+done done
+lokii
+soloii
+akle chlo
+>>>>>>> cr1
