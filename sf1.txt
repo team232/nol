@@ -1,14 +1,16 @@
 hello!
 hey
 what
-<<<<<<< HEAD
+lopn
+fcmjv
+mvfmvg
+HEAD
 done done
 loki
-maty
-=======
+ma
 something
 done done
 lokii
 soloii
 akle chlo
->>>>>>> cr1
+cr1
