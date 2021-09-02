@@ -1,4 +1,8 @@
 hello!
 hey
 what
+<<<<<<< HEAD
 done done
+=======
+loki
+>>>>>>> bug2
